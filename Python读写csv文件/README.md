@@ -20,3 +20,11 @@ https://thepythonguru.com/python-how-to-read-and-write-csv-files/
 
 **Python CSV Files: Reading and Writing**
 https://dzone.com/articles/python-101-reading-and-writing
+
+**How to Read and Write CSV Files in Python**
+https://jdhao.github.io/2018/05/13/read-write-csv-file-with-header/
+
+
+
+
+
