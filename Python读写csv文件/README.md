@@ -36,6 +36,9 @@ https://www.python-course.eu/pandas_data_files.php
 **Pandas Tutorial 1: Pandas Basics (Reading Data Files, DataFrames, Data Selection)**
 https://data36.com/pandas-tutorial-1-basics-reading-data-files-dataframes-data-selection/
 
+**pandas.read_csv参数详解**
+https://www.cnblogs.com/datablog/p/6127000.html
+
 
 
 
